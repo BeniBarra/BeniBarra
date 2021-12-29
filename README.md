@@ -24,4 +24,6 @@
 
 &nbsp;
 
-### Jan/2022 Currently: In progress with the Create with VR Unity Learn course. I also completed a self study course on React-Redux from Sololearn.
+## Jan/2022 Currently
+- In progress with the Create with VR Unity Learn course
+- also completed a self study course on React-Redux from Sololearn.
