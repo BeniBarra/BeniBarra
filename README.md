@@ -18,9 +18,9 @@
 
 ## Projects:
 
-### - My proudest project so far is Prototype Hero, a Castlevania inspired, 2D action platformer created with Unity. While unconventional, my Code Fellows peers and I petitioned our instructors to allow us to all work together as a team to develop a small indie-style video game. Thankfully through rigorous teamwork and communication, with in the span of 4 days we were able to develop a surprisingly polished mini video game. I created the artwork for/and programmed the User Interface that included gameplay responsive health bars, inventory items, as well as dynamic interaction with the in-game item shop.  
+#### &nbsp; - My proudest project so far is Prototype Hero, a Castlevania inspired, 2D action platformer created with Unity. While unconventional, my Code Fellows peers and I petitioned our instructors to allow us to all work together as a team to develop a small indie-style video game. Thankfully through rigorous teamwork and communication, with in the span of 4 days we were able to develop a surprisingly polished mini video game. I created the artwork for/and programmed the User Interface that included gameplay responsive health bars, inventory items, as well as dynamic interaction with the in-game item shop.  
 
-### - Another project I wish to highlight is Azure Skies, an automated SMS flight tracker. Powered by and developed with Azure services including Azure SMS communication services, Azure Event Grid, Webhooks, Azure functions, SQL Database, and Azure Data Studio.
+#### &nbsp; - Another project I wish to highlight is Azure Skies, an automated SMS flight tracker. Powered by and developed with Azure services including Azure SMS communication services, Azure Event Grid, Webhooks, Azure functions, SQL Database, and Azure Data Studio.
 
 &nbsp;
 
