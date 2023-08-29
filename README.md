@@ -1,14 +1,14 @@
 # Hey I'm Benjamin Ibarra, welcome to my Github profile
 
-### I'm a NYC born and raised Colombian-American. Professionally I'm a former Mechanical Draftsman, turned Software Engineer. My goal is to break into and innovate within the space of VR/AR/XR industry
+### I'm a NYC born and raised Colombian-American. I'm a CAD/Revit Drafter, turned Software Engineer.
 
-&nbsp;
+&nsp;
 
 ### I attended Code Fellows during 2021 and successfully completed the Advanced Software Development in ASP.NET Core course  
 
 &nbsp;
 
-### Languages I work with include: C#, JavaScript, HTML, CSS, Markdown  
+### Languages I work with include: C#, C++, JavaScript, HTML, CSS  
 
 &nbsp;
 
@@ -25,5 +25,5 @@
 &nbsp;
 
 ## Jan/2022 Currently
-- In progress with the Create with VR Unity Learn course
-- also completed a self study course on React-Redux from Sololearn.
+- In progress with the create with VR Unity learn course.
+- Completed a self study course on React-Redux from Sololearn.
